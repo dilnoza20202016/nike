@@ -27,7 +27,7 @@ body {
 }
 
 .header__nav {
-     background: #322E41;
+     background:red;
 }
 
 .header__nav>.container {
@@ -95,7 +95,7 @@ body {
      
 }
 .products__item{
-     background:#fff;
+     background:blue;
      width: 255px;
      display: flex;
      flex-direction: column;
